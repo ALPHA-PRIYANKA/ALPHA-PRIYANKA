@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ALPHA-PRIYANKA
-- 👀 I’m interested in CODING & ML
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML PROJECTS
+- 👀 I’m interested in software testing
+- 🌱 I’m currently deep diving into Automation & API
+- 💞️ I’m looking to collaborate on good PROJECTS
 - 📫 How to reach me priyanka8d19@gmail.com
 
 <!---
